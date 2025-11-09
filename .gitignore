@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 #Robot logs
-log.html
-report.html
-output.xml
+*.html
+*.xml
+*.png
